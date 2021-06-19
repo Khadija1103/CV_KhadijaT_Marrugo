@@ -1,0 +1,17 @@
+.container{
+	text-align: justify;
+	font-size: 20px;
+	background-color: rgb(245, 245, 245);
+	padding: 60px;
+	width: 1310px;
+    margin-top: 40px;
+	margin-left: 250px;
+
+}
+.tex{
+	width: 1230px;
+	background-color: rgb(245, 245, 245);
+	padding: 50px;
+	padding-top: 20px;
+	font-size: 25px;
+}
